@@ -2,7 +2,7 @@
 title: "Does spacetime have memories? Searching for gravitational-wave memory in the third LIGO-Virgo-KAGRA gravitational-wave transient catalogue"
 collection: publications
 permalink: /publication/memory_paper
-excerpt: 'Gravitational-wave memory is a non-linear effect predicted by general relativity that remains undetected. We apply a Bayesian analysis framework to search for gravitational-wave memory using binary black hole mergers in LIGO-Virgo-KAGRA's third gravitational-wave transient catalogue.'
+excerpt: 'Gravitational-wave memory is a non-linear effect predicted by general relativity that remains undetected. We apply a Bayesian analysis framework to search for gravitational-wave memory using binary black hole mergers in LIGO-Virgo-KAGRA`s third gravitational-wave transient catalogue.'
 date: 2024-05-01
 venue: 'Classical and Quantum Gravity'
 paperurl: 'http://ShunYCheung.github.io\files\Cheung_2024_Class._Quantum_Grav._41_115010.pdf'
