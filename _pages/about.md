@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student at Monash university, studying gravitational waves. I am a member of LIGO scientific collaboration and Ozgrav. 
+I am a final-year PhD student at Monash university, studying gravitational waves. I am a member of LIGO scientific collaboration and Ozgrav. 
  
 I enjoy solving problems, usually by exploring data and applying statistical methods to uncover insights. My current research focuses on gravitational-wave memory, tests of general relativity and glitch mitigation in gravitational-wave detectors. 
 
