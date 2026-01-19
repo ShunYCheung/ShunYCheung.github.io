@@ -9,4 +9,4 @@ tags:
   - Code
 ---
 
-I recently came across this great 2-hour [Youtube tutorial]() to make and train your own chatGPT model by Andrej Karparov
+I recently came across this great 2-hour to make and train your own chatGPT model by Andrej Karparov
