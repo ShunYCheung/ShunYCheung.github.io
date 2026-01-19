@@ -15,8 +15,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "Academic CV"
-    url: /files/academiccv.pdf
+  - title: "Industry CV"
+    url: /files/industrycv.pdf
     
   # - title: "Guide"
   #   url: /markdown/
